@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/goit-react-hw03-image-finder/static/css/main.98cc4d99.css",
-    "main.js": "/goit-react-hw03-image-finder/static/js/main.5d38c31d.js",
-    "static/media/IconSearch.svg": "/goit-react-hw03-image-finder/static/media/IconSearch.020a213063cbbe5de47f514062a217e0.svg",
-    "index.html": "/goit-react-hw03-image-finder/index.html",
-    "main.98cc4d99.css.map": "/goit-react-hw03-image-finder/static/css/main.98cc4d99.css.map",
-    "main.5d38c31d.js.map": "/goit-react-hw03-image-finder/static/js/main.5d38c31d.js.map"
+    "main.css": "/goit-react-hw-03-image-finder/static/css/main.98cc4d99.css",
+    "main.js": "/goit-react-hw-03-image-finder/static/js/main.88cba9a2.js",
+    "static/media/IconSearch.svg": "/goit-react-hw-03-image-finder/static/media/IconSearch.020a213063cbbe5de47f514062a217e0.svg",
+    "index.html": "/goit-react-hw-03-image-finder/index.html",
+    "main.98cc4d99.css.map": "/goit-react-hw-03-image-finder/static/css/main.98cc4d99.css.map",
+    "main.88cba9a2.js.map": "/goit-react-hw-03-image-finder/static/js/main.88cba9a2.js.map"
   },
   "entrypoints": [
     "static/css/main.98cc4d99.css",
-    "static/js/main.5d38c31d.js"
+    "static/js/main.88cba9a2.js"
   ]
 }
