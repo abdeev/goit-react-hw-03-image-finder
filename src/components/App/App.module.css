@@ -1,0 +1,14 @@
+.App {
+  display: grid;
+  grid-template-columns: 1fr;
+  grid-gap: 16px;
+  padding-bottom: 24px;
+  background-color: rgb(220, 220, 220);
+}
+.button_wrapper {
+  display: flex;
+  flex-direction: row-reverse;
+  gap: 10px;
+  justify-content: center;
+  align-content: space-around;
+}
