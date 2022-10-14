@@ -26,7 +26,6 @@ class SearchBar extends Component {
         pauseOnHover: true,
         draggable: true,
         progress: undefined,
-        theme: 'colored',
       });
     }
     this.props.onSubmit(this.state.query);
